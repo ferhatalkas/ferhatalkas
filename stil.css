@@ -1,0 +1,63 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0d7ded;
+}
+
+header {
+    background-image: url('https://marketplace.canva.com/EAGDURIe53Q/2/0/1600w/canva-red-and-black-modern-restaurant-grand-opening-promotion-banner-N0tLXTR6eGs.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #e61010;
+    padding: 60px 0;
+}
+
+header h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+header .lead {
+    font-size: 1.25rem;
+}
+
+header .btn {
+    margin-top: 20px;
+}
+
+section {
+    padding: 60px 0;
+}
+
+img {
+    width: 100%; 
+    height: auto; 
+    object-fit: cover; 
+
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #0780f9;
+}
+
+h3 {
+    font-size: 1.75rem;
+    font-weight: 600;
+}
+
+footer {
+    background-color: #0780f9;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+img.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.shadow-lg {
+    box-shadow: 0 0 15px rgba(2, 78, 244, 0.943);
+}
